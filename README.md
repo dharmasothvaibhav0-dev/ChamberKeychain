@@ -17,4 +17,4 @@ All of the layers were used as multicolor silk screens, I orignally wanted the l
 ## Demo Link
 https://oshwlab.com/vmaster15/project_zudxdkgt
 
-# Time for this: 2 hours 10 minutes
+# Time for this: 3 hours 20 minutes
