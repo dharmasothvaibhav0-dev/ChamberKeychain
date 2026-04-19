@@ -1,6 +1,6 @@
 # ChamberKeychain
 
-I've made a PCB keychain of one of my favorite valorant agents Chamber!
+I've made a PCB keychain of a card of one of my favorite valorant agents Chamber!
 
 <img width="778" height="501" alt="image" src="https://github.com/user-attachments/assets/14fd0574-02c1-4f02-960d-454b216bb6b4" />
 
