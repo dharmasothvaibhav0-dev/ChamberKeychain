@@ -17,3 +17,5 @@ I tried to emboss for the last layer but i was genuinly tweaking because i could
 
 ## Demo Link
 https://oshwlab.com/vmaster15/project_zudxdkgt
+
+# Time for this: 2 hours 10 minutes
