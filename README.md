@@ -11,8 +11,7 @@ I made the design usig Figma, and seperated it into 4 layers
 <img width="800" height="600" alt="Frame 3" src="https://github.com/user-attachments/assets/2e8931af-d8bc-4c48-9fd3-e9ba711a7f95" />
 
 
-I tried to emboss for the last layer but i was genuinly tweaking because i couldn't figure it out so i gave up on that.
-
+All of the layers were used as multicolor silk screens, I orignally wanted the last layer to be embossed but i was really struggling to figure it out so i changed my mind and left it as a multicolor silkscreen
 
 
 ## Demo Link
