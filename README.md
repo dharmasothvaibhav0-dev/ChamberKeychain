@@ -15,6 +15,6 @@ All of the layers were used as multicolor silk screens, I orignally wanted the l
 
 
 ## Demo Link
-https://oshwlab.com/vmaster15/project_zudxdkgt
+https://pro.easyeda.com/editor#id=0ba6ae6326d240ac848e54c2d79a5756,tab=*62148a5ed9d14477997c024a0d65519b@0ba6ae6326d240ac848e54c2d79a5756
 
 # Time for this: 3 hours 20 minutes
