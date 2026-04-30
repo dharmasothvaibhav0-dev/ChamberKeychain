@@ -1,7 +1,8 @@
 # ChamberKeychain
 
 I've made a PCB keychain of a card of one of my favorite valorant agents Chamber!
-<img width="747" height="604" alt="image" src="https://github.com/user-attachments/assets/6fd70a01-e184-4f01-b8e6-cbbc54b7ebe3" />
+<img width="2160" height="1531" alt="3D_PCB1_2026-04-29" src="https://github.com/user-attachments/assets/2ce8206e-b362-4445-abc9-12a9ae5a5182" />
+
 
 
 I made the design usig Figma, and seperated it into 4 layers
